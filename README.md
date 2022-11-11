@@ -4,17 +4,17 @@
 </div> <br>
 <div align="center">
 
-# PythonIn30Days
+# 🌱 PythonIn30Days 
 
 </div>
 
- <br>
+<!--  <br> -->
  
-<div align="center">
+<!-- <div align="center"> -->
 
-🌱 Learning Python in 30 Days 
+<!-- 🌱 Learning Python in 30 Days  -->
   
 
-🔭 Zero-to-Hero  
+<!-- 🔭 Zero-to-Hero   -->
 
-</div>
+<!-- </div> -->
